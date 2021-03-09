@@ -1,2 +1,1 @@
-# Python Cheat Sheet in Bahasa Indonesia
-
+# Python Cheat Sheet (Bahasa Indonesia)
